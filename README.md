@@ -1,6 +1,3 @@
-# EDS220-2024-sections
-Work during discussion sessions during EDS 220, Fall 2024.
-
 # EDS 220 Discussion Sections Repository
 
 This repository hosts all the work completed by Bailey Jorgensen during the discussion sections of EDS 220 - *Working with Environmental Datasets*.
